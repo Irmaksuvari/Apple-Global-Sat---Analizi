@@ -1,0 +1,7 @@
+Özellik,RF Önemi,GB Önemi,Ort. Önemi,RF Yüzde,GB Yüzde,Ort. Yüzde
+discounted_price_usd_is_outlier,0.0001,0.0000,0.0001,0.01%,0.00%,0.01%
+unit_price_usd_is_outlier,0.0001,0.0007,0.0004,0.01%,0.07%,0.04%
+discount_pct,0.0260,0.0019,0.0139,2.60%,0.19%,1.39%
+discounted_price_usd,0.3828,0.0560,0.2194,38.28%,5.60%,21.94%
+unit_price_usd,0.3947,0.0694,0.2320,39.47%,6.94%,23.20%
+units_sold_is_outlier,0.1962,0.8720,0.5341,19.62%,87.20%,53.41%
